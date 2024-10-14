@@ -1,0 +1,31 @@
+<html>
+ <head>
+ <link href="style.css" rel="stylesheet"/>  
+ </head>
+ <body>
+ <img src="https://mimo.app/i/cat.png" width="150">
+  <h1>Stacey Nduta</h1>
+  <h2>Portfolio Manager</h2>
+  <p>Welcome to my Linktree</p>
+  <a href="https://linkedin.com/in/stacey-nduta">Follow my LinkedIn</a> <br>
+  <a href="https://x.com/staceynduta">Follow me on X</a>
+ </body>
+</html>
+
+img {
+ border-radius: 10px 10px 10px 10px;
+ padding: 10px 10px 10px 10px;
+ background-color: white;
+ text-align: center;
+ margin: 10px 10px 10px 10px;
+ color: slateblue;
+}
+h2 {
+ font-size: 20px;
+}
+body {
+background-color: slateblue;
+font-family: Trebuchet MS;
+color: white;
+text-align: center;
+}
