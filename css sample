@@ -1,0 +1,12 @@
+img {
+ padding: 100px 0px 0px 0px;
+ border: solid 2px gray;
+ width: 100px;
+ height: 100px;
+ background-color: white;
+}
+
+body {
+ background-color: azure;
+ text-align: center;
+}
